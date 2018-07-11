@@ -74,4 +74,4 @@ that is the velocity is zero. Also the Prandl number is one.
 [Geo-fluid-dynamics](https://github.com/geo-fluid-dynamics/phaseflow-fenics)
 
 ## Acknowledgement
-I would like to thank Professor Julia Kowalski and Mr. Alexander G. Zimmerman 
+I would like to thank Professor Julia Kowalski and Mr. Alexander G. Zimmerman for providing me an oppurtunity to contribute towards their project.
