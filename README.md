@@ -71,6 +71,7 @@ that is the velocity is zero. Also the Prandl number is one.
 ## References
 [The fenics project](https://doi.org/10.11588/ans.2015.100.20553)
 [Monolithic simulation of convection-coupled phase-change -verification and reproducibility](https://arxiv.org/abs/1801.03429)
-[Geo-fluid-dynamics]()
-##Acknowledgement
+[Geo-fluid-dynamics](https://github.com/geo-fluid-dynamics/phaseflow-fenics)
+
+## Acknowledgement
 I would like to thank Professor Julia Kowalski and Mr. Alexander G. Zimmerman 
